@@ -1,0 +1,22 @@
+{
+    "rendition-image-handler-get-asset-service-url":"http://localhost:9998/imageconvert?assetNodePath=/Users/sli/Work/test_images",
+    "rendition-image-handler-write-renditions-service-url":"http://localhost:9998/imageconvert",
+    "rendition-generation-service-url":"http://rgs.dev.nymag.biz:8383/api",
+    "asset-width":2036,
+    "asset-height":3054,
+    "asset-node-path":"/Users/sli/Work/test_images",
+    "rendition-rules":[
+        {
+            "nym:width":100,
+            "nym:height":100,
+            "nym:cropX":784,
+            "nym:cropY":845,
+            "nym:cropWidth":417,
+            "nym:cropHeight":417,
+            "nym:order":1,
+            "nym:shouldCrop":true,
+            "renditionName":"palette_1350315958051.jpg",
+            "mimetype":"image/jpeg"
+        }
+    ]
+}
